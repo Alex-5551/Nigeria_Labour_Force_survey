@@ -12,28 +12,28 @@ The response that were encoded with numeric values was replaced with the actual 
 python libraries such as matplotlib, seaborn and plotly express were used for the visualization.
 
 ## Insights
-1. # The Typical full-time hours per week of a Nigeria is between 35-44 hours.
+1. The Typical full-time hours per week of a Nigeria is between 35-44 hours.
 
-2. # There are more females in the professional fields than in agriculture, maunfacturing plants and the military.
+2. There are more females in the professional fields than in agriculture, maunfacturing plants and the military.
 
-3. # Age distribution is as follows:
+3. Age distribution is as follows:
 
-# 39-48: 28.7%
+39-48: 28.7%
 
-# 29-38: 23.9%
+29-38: 23.9%
 
-# 49-58: 17.9%
+49-58: 17.9%
 
-# 19-28: 17.7%
+19-28: 17.7%
 
-# 59-68: 5.6%
+59-68: 5.6%
 
-# 9-18: 5.3%
+9-18: 5.3%
 
-# 69-78: 0.6%
+69-78: 0.6%
 
-# 79-88: 0.19%
+79-88: 0.19%
 
-# 89+: 0.09%
+89+: 0.09%
 
-4. # The private sector aborbs more work force than any other sector.
+4. The private sector aborbs more work force than any other sector.
